@@ -1,3 +1,12 @@
-#Sobre el proyecto
-Primer proyecto de la Ucamp 16. Landing web page de un sitio imaginario de venta de camaras analogicas exoticas. 
-Creado con HTML, CSS y algunos componentes de Bootstrap. 
+# Sobre el proyecto
+
+Primer proyecto realizado en el ***UCamp 16*** 
+Se trata de una landing page estatica, de un negocio imaginario de venta de camaras analogas "exoticas". 
+ El proyecto es responsivo al usar componentes de Bootrap. 
+
+
+# Herramientas
+Proyecto construido con HTML 5, CSS y componentes de de Bootstrap
+
+# Resources
+Todo el material grafico (Fotos y logo) fue creado por mi, procesado usando **Krita** y **Rawtherapee.** 

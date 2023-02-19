@@ -1,0 +1,61 @@
+.fondo {
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.jumbocontainer {
+display: grid;
+grid-template-columns: 40% 40%;
+ padding: 10px;
+flex-wrap: wrap;
+justify-content: center;
+align-content: center;
+gap: 2px;
+text-overflow: clip;
+flex-direction: row;
+grid-auto-flow: row;
+   
+}
+.jumbocontent {
+    background-color: crimson;
+    border: 3px solid red;
+    padding: 20px;
+    font-size: 33px;
+    text-align: left;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jumbotext {
+    border: 1px solid red;
+    padding: 20px;
+    font-size: 23px;
+    text-align: left;
+    color: bisque;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.jumbotitle{
+    background-color: rgb(117, 30, 30);
+    color: blanchedalmond;
+    border: 1px solid red;
+    padding: 20px;
+    display: grid;
+   grid-template-columns: auto;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   flex-wrap: wrap;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: bold;
+}
+
+.jumbosubscribe {
+    display: grid;
+grid-template-columns: 40%;
+ padding: 5px;
+flex-wrap: wrap;
+justify-content: center;
+align-content: center;
+background-color: rgb(39, 39, 39);
+flex-direction: row;
+grid-auto-flow: row;
+}
