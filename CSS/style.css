@@ -37,12 +37,13 @@ font-family: 'Courier New', Courier, monospace;
 .jumbotitle{
     background-color: rgb(117, 30, 30);
     color: blanchedalmond;
-    border: 1px solid red;
+    border: 3px solid rgb(226, 226, 226);
     padding: 20px;
     display: grid;
    grid-template-columns: auto;
    padding-top: 30px;
    padding-bottom: 30px;
+   justify-content: center;
    flex-wrap: wrap;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    font-weight: bold;
@@ -58,4 +59,24 @@ align-content: center;
 background-color: rgb(39, 39, 39);
 flex-direction: row;
 grid-auto-flow: row;
+}
+.titulos{
+    background-color: rgb(156, 21, 21);
+    color: blanchedalmond;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    padding: 20px;
+    display: grid;
+   grid-template-columns: 40%;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   justify-content: center;
+   text-align: center;
+   flex-wrap: wrap;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: bold;
+}
+
+.detallescard {
+    color: black;
 }
