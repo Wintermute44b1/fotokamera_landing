@@ -80,3 +80,8 @@ grid-auto-flow: row;
 .detallescard {
     color: black;
 }
+.titulodecard {
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+}
